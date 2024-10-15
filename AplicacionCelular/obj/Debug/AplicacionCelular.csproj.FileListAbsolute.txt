@@ -1,0 +1,17 @@
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\bin\Debug\AplicacionCelular.exe.config
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\bin\Debug\AplicacionCelular.exe
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\bin\Debug\AplicacionCelular.pdb
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.Form1.resources
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.exe
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.pdb
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\bin\Debug\Dominio.dll
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\bin\Debug\Dominio.pdb
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.csproj.CopyComplete
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\bin\Debug\Negocio.dll
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\bin\Debug\Negocio.pdb
+C:\Users\franc\OneDrive\Escritorio\apppokemon1.0\AplicacionCelular\obj\Debug\AplicacionCelular.FormAgregar.resources
